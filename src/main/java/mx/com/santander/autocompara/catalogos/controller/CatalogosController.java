@@ -1,4 +1,10 @@
-package mx.com.santander.autocompara.catalogos.controllers;
+/*******************************************************************************
+ * 
+ *  Santander
+ *  Copyright (C) 2016-2017 
+ *  
+ ******************************************************************************/
+package mx.com.santander.autocompara.catalogos.controller;
 
 import java.util.List;
 
@@ -11,6 +17,7 @@ import org.springframework.web.bind.annotation.RestController;
 import mx.com.santander.autocompara.catalogos.model.ActividadesGiros;
 import mx.com.santander.autocompara.catalogos.model.Ocupaciones;
 import mx.com.santander.autocompara.catalogos.model.Paises;
+
 
 @RestController
 public class CatalogosController {
