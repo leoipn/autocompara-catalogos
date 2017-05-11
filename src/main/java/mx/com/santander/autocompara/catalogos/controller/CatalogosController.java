@@ -24,7 +24,7 @@ public class CatalogosController {
 
 	@RequestMapping(value = "/actividadesGiro", method = RequestMethod.GET, produces = MediaType.APPLICATION_JSON)
 	public List<ActividadesGiros> actividadesGiro() {
-
+		//hola 
 		return null;
 	}
 
